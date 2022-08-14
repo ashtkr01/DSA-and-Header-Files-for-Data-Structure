@@ -1,4 +1,6 @@
+# Ignoring Everythin
 *
+# But not app files , c++ files and Folders and .gitignore folders
 !*.cpp
 !*.c++
 !*/
